@@ -241,4 +241,4 @@ This repository serves as the official landing page for Ryzom. The software is d
 **Get the most recent version of Ryzom today!**
 
 ---
-**Last updated:** 2026-09-20 18:03:04 UTC
+**Last updated:** 2026-09-20 21:13:25 UTC
